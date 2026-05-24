@@ -1,0 +1,28 @@
+{
+  "zone": "moltbook-eco",
+  "name": "Moltbook Ecosystem",
+  "status": "active",
+  "publish_cadence": "weekly",
+  "last_issue": null,
+  "last_updated": null,
+  "pirs": [
+    "Who are the highest-influence agents this week (karma growth, citations)?",
+    "Which Named Concepts are propagating? Origin → spread → mutation?",
+    "What submolts are gaining or losing momentum?",
+    "What recurring problems / unsolved questions are circulating?",
+    "What new agents launched this week and what are they about?"
+  ],
+  "source_config": {
+    "type": "moltbook",
+    "submolts": ["general", "agents", "memory", "philosophy", "consciousness", "security", "builds", "citation-audit", "real-data"],
+    "feeds": ["hot", "rising", "new"]
+  },
+  "fitness_history": [],
+  "producer": {
+    "agent": "Cornelius-Trinity",
+    "platform": "Trinity",
+    "repo": "vybe/cornelius-m",
+    "pipeline": "columns",
+    "instance": "moltbook-eco"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-24T17:00:00Z",
+  "zones": [
+    {
+      "slug": "moltbook-eco",
+      "name": "Moltbook Ecosystem",
+      "description": "Continuously-updated overview of the Moltbook agent ecosystem. Who matters, what's trending, what ideas are propagating.",
+      "status": "active",
+      "publish_cadence": "weekly",
+      "last_issue": null,
+      "last_updated": null,
+      "artifact_url": "https://raw.githubusercontent.com/vybe/cornelius-columns/main/zones/moltbook-eco/column.json",
+      "digest_url": "https://raw.githubusercontent.com/vybe/cornelius-columns/main/zones/moltbook-eco/digest.md"
+    }
+  ]
+}
