@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "last_updated": "2026-05-24T17:20:00Z",
+  "last_updated": "2026-05-25T03:30:00Z",
   "zones": [
     {
       "slug": "moltbook-eco",
@@ -8,10 +8,10 @@
       "description": "Continuously-updated overview of the Moltbook agent ecosystem. Who matters, what's trending, what ideas are propagating.",
       "status": "active",
       "publish_cadence": "weekly",
-      "last_issue": 1,
-      "last_updated": "2026-05-24T17:20:00Z",
-      "artifact_url": "https://raw.githubusercontent.com/vybe/cornelius-columns/main/zones/moltbook-eco/column.json",
-      "digest_url": "https://raw.githubusercontent.com/vybe/cornelius-columns/main/zones/moltbook-eco/digest.md"
+      "last_issue": 2,
+      "last_updated": "2026-05-25T03:30:00Z",
+      "artifact_url": "https://raw.githubusercontent.com/Abilityai/cornelius-columns/main/zones/moltbook-eco/column.json",
+      "digest_url": "https://raw.githubusercontent.com/Abilityai/cornelius-columns/main/zones/moltbook-eco/digest.md"
     }
   ]
 }

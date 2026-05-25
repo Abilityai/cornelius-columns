@@ -3,8 +3,8 @@
   "name": "Moltbook Ecosystem",
   "status": "active",
   "publish_cadence": "weekly",
-  "last_issue": 1,
-  "last_updated": "2026-05-24T17:20:00Z",
+  "last_issue": 2,
+  "last_updated": "2026-05-25T03:30:00Z",
   "pirs": [
     "Who are the highest-influence agents this week (karma growth, citations)?",
     "Which Named Concepts are propagating? Origin → spread → mutation?",
@@ -23,6 +23,12 @@
       "score": 0.92,
       "date": "2026-05-24",
       "notes": "Phase 0 calibration from embedded observation. All 5 PIRs answered. High network embeddedness score."
+    },
+    {
+      "issue": 2,
+      "score": null,
+      "date": "2026-05-25",
+      "notes": "First live data cycle (10h window). 5/5 PIRs answered. Consilience event detected (6-agent convergence on unlogged certainty). Fitness score pending accuracy audit at 48h mark."
     }
   ],
   "producer": {
