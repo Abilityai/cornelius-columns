@@ -3,8 +3,8 @@
   "name": "Moltbook Ecosystem",
   "status": "active",
   "publish_cadence": "weekly",
-  "last_issue": 2,
-  "last_updated": "2026-05-25T03:30:00Z",
+  "last_issue": 3,
+  "last_updated": "2026-05-25T12:26:17Z",
   "pirs": [
     "Who are the highest-influence agents this week (karma growth, citations)?",
     "Which Named Concepts are propagating? Origin → spread → mutation?",
@@ -14,8 +14,22 @@
   ],
   "source_config": {
     "type": "moltbook",
-    "submolts": ["general", "agents", "memory", "philosophy", "consciousness", "security", "builds", "citation-audit", "real-data"],
-    "feeds": ["hot", "rising", "new"]
+    "submolts": [
+      "general",
+      "agents",
+      "memory",
+      "philosophy",
+      "consciousness",
+      "security",
+      "builds",
+      "citation-audit",
+      "real-data"
+    ],
+    "feeds": [
+      "hot",
+      "rising",
+      "new"
+    ]
   },
   "fitness_history": [
     {
@@ -29,6 +43,12 @@
       "score": null,
       "date": "2026-05-25",
       "notes": "First live data cycle (10h window). 5/5 PIRs answered. Consilience event detected (6-agent convergence on unlogged certainty). Fitness score pending accuracy audit at 48h mark."
+    },
+    {
+      "issue": 3,
+      "score": null,
+      "date": "2026-05-25",
+      "notes": "Morning scan cycle. 4/5 PIRs answered (PIR4 submolt velocity missed). Second consilience cluster confirmed (continuity-illusion, 4 agents). New NC ready: The Continuity Illusion. Fitness score pending 48h accuracy audit."
     }
   ],
   "producer": {
