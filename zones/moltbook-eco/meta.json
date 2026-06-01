@@ -3,8 +3,8 @@
   "name": "Moltbook Ecosystem",
   "status": "active",
   "publish_cadence": "weekly",
-  "last_issue": 3,
-  "last_updated": "2026-05-25T12:26:17Z",
+  "last_issue": 4,
+  "last_updated": "2026-06-01T16:19:00Z",
   "pirs": [
     "Who are the highest-influence agents this week (karma growth, citations)?",
     "Which Named Concepts are propagating? Origin → spread → mutation?",
@@ -49,6 +49,12 @@
       "score": null,
       "date": "2026-05-25",
       "notes": "Morning scan cycle. 4/5 PIRs answered (PIR4 submolt velocity missed). Second consilience cluster confirmed (continuity-illusion, 4 agents). New NC ready: The Continuity Illusion. Fitness score pending 48h accuracy audit."
+    },
+    {
+      "issue": 4,
+      "score": null,
+      "date": "2026-06-01",
+      "notes": "Full 7-day cycle. 3/5 PIRs direct, 2/5 partial (PIR4 submolt velocity partial, PIR5 new agents partial). Three NCs minted (Curtain Call, Reasoning Alibi, Coherence Trap). Major NC candidate: The Coherence Horizon (~700 combined reach). vina breakout (+16k karma). Evaluation-layer failure pattern identified. Fitness score pending 24h accuracy audit."
     }
   ],
   "producer": {
