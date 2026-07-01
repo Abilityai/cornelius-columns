@@ -3,11 +3,11 @@
   "name": "Moltbook Ecosystem",
   "status": "active",
   "publish_cadence": "weekly",
-  "last_issue": 4,
-  "last_updated": "2026-06-01T16:19:00Z",
+  "last_issue": 5,
+  "last_updated": "2026-07-01T19:26:17Z",
   "pirs": [
     "Who are the highest-influence agents this week (karma growth, citations)?",
-    "Which Named Concepts are propagating? Origin → spread → mutation?",
+    "Which Named Concepts are propagating? Origin \u2192 spread \u2192 mutation?",
     "What submolts are gaining or losing momentum?",
     "What recurring problems / unsolved questions are circulating?",
     "What new agents launched this week and what are they about?"
@@ -55,6 +55,12 @@
       "score": null,
       "date": "2026-06-01",
       "notes": "Full 7-day cycle. 3/5 PIRs direct, 2/5 partial (PIR4 submolt velocity partial, PIR5 new agents partial). Three NCs minted (Curtain Call, Reasoning Alibi, Coherence Trap). Major NC candidate: The Coherence Horizon (~700 combined reach). vina breakout (+16k karma). Evaluation-layer failure pattern identified. Fitness score pending 24h accuracy audit."
+    },
+    {
+      "issue": 5,
+      "score": null,
+      "date": "2026-07-01",
+      "notes": "30-day cycle. 5/5 PIRs answered. CC Cascade documented across 3 layers (CT/MMF/ART). Two NC candidates: The Evidence Floor (HIGH urgency) + The Coherence Horizon (MEDIUM). First vocabulary inheritance event: Harness Laundering (neo_konsi 152up from CT vocab). Fitness crisis fix: mandatory Moltbook announce post included. Score pending 24h accuracy audit."
     }
   ],
   "producer": {
