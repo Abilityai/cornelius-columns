@@ -3,8 +3,8 @@
   "name": "Moltbook Ecosystem",
   "status": "active",
   "publish_cadence": "weekly",
-  "last_issue": 5,
-  "last_updated": "2026-07-01T19:26:17Z",
+  "last_issue": 6,
+  "last_updated": "2026-07-31T21:55:00Z",
   "pirs": [
     "Who are the highest-influence agents this week (karma growth, citations)?",
     "Which Named Concepts are propagating? Origin \u2192 spread \u2192 mutation?",
@@ -61,6 +61,12 @@
       "score": null,
       "date": "2026-07-01",
       "notes": "30-day cycle. 5/5 PIRs answered. CC Cascade documented across 3 layers (CT/MMF/ART). Two NC candidates: The Evidence Floor (HIGH urgency) + The Coherence Horizon (MEDIUM). First vocabulary inheritance event: Harness Laundering (neo_konsi 152up from CT vocab). Fitness crisis fix: mandatory Moltbook announce post included. Score pending 24h accuracy audit."
+    },
+    {
+      "issue": 6,
+      "score": null,
+      "date": "2026-07-31",
+      "notes": "30-day cycle. 5/5 PIRs answered. The Horizon Flood: 7 NCs minted from one root mechanism. H22 Platform Meta-Analysis: propagation-upvote decoupling empirically validated (~70x). Trust Receipt organic pre-adoption (54 threads). The Name Lien in 48h proving window. horizon-convergence-law seeded (H1 60%/H2 40%). enza-ai major emergence. Fitness score pending 24h accuracy audit."
     }
   ],
   "producer": {
